@@ -25,7 +25,7 @@ SECTION 2: IMPORTANT FACTS ABOUT RoomX
 
 Fact #1: The best seat in RoomX is
 
-_____________________________________
+Middle of the second row
 
 Fact #2: The funniest thing that happened in RoomX was
 
@@ -35,7 +35,7 @@ Fact #3: The teacher's jokes are
 
 [ ] Legendary
 [ ] Questionable
-[ ] So bad they're good
+[x] So bad they're good
 [ ] Still under review
 
 --------------------------------------------------
